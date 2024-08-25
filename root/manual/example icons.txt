@@ -1,0 +1,9 @@
+<!-- example icons
+<svg class="logo" viewBox="0 0 32 32" aria-hidden="true">
+   <use xlink:href="svg-icons-map.svg#search-logo"></use>
+   </svg>
+   
+   <svg class="logo" viewBox="0 0 32 32" aria-hidden="true">
+   <use xlink:href="svg-icons-map.svg#twitter-logo"></use>
+   </svg>
+-->
